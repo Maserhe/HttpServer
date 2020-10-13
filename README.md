@@ -9,5 +9,6 @@
 
 httpServer没有加入多线程版本。
 httpServer2是加入了多线程版本。
-多线程运行效果
-![README-2020-10-13-21-55-20](https://picgo-1259138584.cos.ap-beijing.myqcloud.com/Markdown/README-2020-10-13-21-55-20.gif)
+**多线程运行效果**
+
+![image](https://picgo-1259138584.cos.ap-beijing.myqcloud.com/Markdown/README-2020-10-13-21-55-20.gif)
