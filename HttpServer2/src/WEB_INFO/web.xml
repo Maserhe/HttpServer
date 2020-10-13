@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<web-app>
+    <servlet>
+        <!-- 包名 点 类名-->
+        <servlet-name>login</servlet-name>
+        <servlet-class>servlet.LoginServlet</servlet-class>
+
+    </servlet>
+    <servlet>
+        <servlet-name>favicon</servlet-name>
+        <servlet-class>servlet.FaviconServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>login</servlet-name>
+        <!-- log 浏览器访问 /log -->
+        <url-pattern>/log</url-pattern>
+        <url-pattern>/login</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>favicon</servlet-name>
+        <url-pattern>/favicon.io</url-pattern>
+    </servlet-mapping>
+
+
+</web-app>

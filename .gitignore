@@ -1,0 +1,7 @@
+# 此为注释 – 将被 Git 忽略
+*.exe
+*.out
+*.txt      
+*.idea
+out/
+debug.log
