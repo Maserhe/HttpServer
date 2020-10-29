@@ -12,4 +12,4 @@ httpServer2是加入了多线程版本。
 
 **多线程运行效果**
 
-![image](https://github.com/Maserhe/HttpServer/blob/master/image/%E5%AA%92%E4%BD%931.gif)
+![运行效果](https://picgo-1259138584.cos.ap-beijing.myqcloud.com/Markdown/result-2020-10-29-18-42-42.gif)
